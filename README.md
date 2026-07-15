@@ -19,6 +19,15 @@ Results varies when using a pair of sissors.
 
 To edit and customize the overlay, simply open [X-TouchCubaseOverlay.svg](https://github.com/Erriez/x-touch-cubase-overlay/blob/main/X-TouchCubaseOverlay.svg) in Inkscape (free) which can be downloaded from https://inkscape.org/.
 
+## Updates
+
+### 15 July 2026
+
+Cubase 13/14 changed the functions of the encoder assign knobs:
+
+- New: `| TRACK |  PAN  |  EQ  | SEND  |   FX   | STRIP  |`
+- Old: `|   <   |  PAN  |  EQ  |   >   | PLUGIN |   FX   |`
+
 ## Profesional overlay
 
 If someone has ideas to create a professional overlay on plastic, for example with a laser cutter, please let me know by opening an [issue](https://github.com/Erriez/x-touch-cubase-overlay/issues).
